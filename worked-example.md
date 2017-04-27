@@ -13,7 +13,7 @@ for the described task."
 cluster for this."
 
 ### Distributed
-This will run on multiple computers the world over.
+"Design this to run on multiple computers all over the world."
 
 ### Advertise service
 Seattle Testbed's (qv) way to let programs publicly announce data under arbitrary
