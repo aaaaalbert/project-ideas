@@ -46,7 +46,7 @@ your future self.
 More preliminaries!
 
 * Learn Git and use GitHub. (You'll learn how to use them *right* as you go.)
-* Read the SecSyLab guidelines
+* Read the [SecureSystemsLab guidelines](https://ssl.engineering.nyu.edu/collaborate)
 * Read any project-specific material that you find, and
 * Write your own summaries of material you read! (Feel free to share too.)
 
