@@ -16,7 +16,7 @@ cluster for this."
 This will run on multiple computers the world over.
 
 ### Advertise service
-Seattle Testbed's (qv) way to let programs announce data under arbitrary
+Seattle Testbed's (qv) way to let programs publicly announce data under arbitrary
 keys, and look up all of the announced data using that key.
 
 ### Seattle Testbed
