@@ -56,9 +56,10 @@ More preliminaries!
 Sensibility:
 * Sensor unit tests and showcases
 * Sensor calibration using household items
+* Tethering mode for local experimentation
 
 Seattle:
  * Webify everything!
  * Python 3 port
  * Add sandbox types
- 
+ * A Better SeleXor
