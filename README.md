@@ -2,7 +2,7 @@
 
 This is a collection of, you guessed it!, project ideas for
 newcomers/volunteers/students/whathaveyou. It tries to explain
-a few "meta" issues upfront so that 
+a few "meta" issues upfront so as to express our expectations.
 
 
 ### Preliminary things to talk about
