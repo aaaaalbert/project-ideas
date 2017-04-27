@@ -53,3 +53,12 @@ More preliminaries!
 
 ### And *finally*, Project Ideas
 
+Sensibility:
+* Sensor unit tests and showcases
+* Sensor calibration using household items
+
+Seattle:
+ * Webify everything!
+ * Python 3 port
+ * Add sandbox types
+ 
