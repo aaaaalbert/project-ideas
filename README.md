@@ -17,7 +17,7 @@ Projects are part technical/programming-oriented, part tools, part
 None of this happens in a vacuum. Most often we have existing code,
 people, workflows to look at, talk to, (re)use.
 
-However, it's going to be *your* project. Searching for soultions on
+However, it's going to be *your* project. Searching for solutions on
 your own is an important piece of the learning experience, and a skill
 whose importance can't be overestimated in your further studies or
 industry career.
