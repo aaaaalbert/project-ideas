@@ -53,10 +53,14 @@ a second process (whose output the user is really interested in,
 like a video player) can run uninterrupted.
 
 
-### Milestones And Deliverables
+### Milestones And Deliverables (meta-information)
 1. Make a plan, describe what you will do, and when you will do it.
   Do this on a public GitHub repo.
-2. Whatever NYU wants, plus all code and data, and regular group/individual
-meetings, see top-level README.
+2. If you are a summer research student, follow NYU's requirements
+  for handing in an abstract and project description, attending the
+  poster presentation, etc.
+3. Share all code and data, notes, plans, online so that your supervisors
+  can view and comment on them. Attend the regular group/individual meetings,
+  see [the top-level README](README.md) for details.
 
 
