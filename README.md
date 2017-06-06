@@ -57,3 +57,5 @@ More preliminaries!
 
 ### And *finally*, Project Ideas
 * [Benchmark resource isolation in Docker and Seattle](docker.md)
+* [Implement distributed `advertise` methods for Seattle](dht.md)
+
